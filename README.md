@@ -1,37 +1,47 @@
-# DeutschPath — German A1 Lessons 1–7
+# Wortgarten A1 — My German Learning Journal 🇩🇪
 
-A complete **static GitHub Pages website** with the seven completed German A1 lesson summaries, example sentences, grammar tables in notes, scores/corrections, a lesson checklist, and a daily journal.
+A personal, browser-based space to learn German at my own pace.
 
-## Publish on GitHub Pages
+**Website:** https://amitpanda147.github.io/Wortgarten-A1/
 
-1. Create a public GitHub repository, e.g. `german-study`.
-2. Extract the ZIP and upload **the files inside `german_a1_site/`** to the repository root. Make sure `index.html` sits at the repository root (not inside another folder).
-3. Commit/push the files.
-4. Repository → **Settings → Pages** → **Build and deployment** → Deploy from a branch → select `main` and `/ (root)` → Save.
-5. Open the Pages URL shown in Settings → Pages, typically `https://YOUR-USERNAME.github.io/german-study/`.
+## About
 
-You can also run the site by opening `index.html` locally in a browser (no build step).
+Wortgarten brings my German A1 lessons, grammar notes, examples, and daily learning journal together in one place. It is a personal learning tool, not an exam-preparation platform. There are no exam dates, revision timetables, or required deadlines.
 
-## Important: changes are not automatically synced to Git
+## What's inside
 
-- Checkboxes, custom notes, and journal entries are saved **in your browser's localStorage**. They are not uploaded to GitHub and are not automatically visible on a different device.
-- Use **Export progress** to download a `.json` backup and **Import progress** on another browser/device.
-- Publishing the static site does not create an online database; to enable true multi-device sync later, integrate authentication + a backend (e.g. Firebase/Supabase) or a separate hosted data source.
-- The 7 lessons and their documented assessment results are included in `lessons.json` and embedded in `app.js` so the site can load locally. To update published lesson content, change both, or ask ChatGPT for a regenerated package and push it to GitHub.
+- **Seven A1 lessons**: personal pronouns and *sein*, *haben* and regular verbs, articles and noun gender, word order, W-questions, nominative, and accusative.
+- **Grammar explanations and example sentences** that I can revisit at any time.
+- **Personal lesson notes** and a simple explored/not-yet-explored checklist.
+- **Daily learning journal** for vocabulary, sentences, questions, and observations.
+- **Optional learning path** with ideas for what to explore next.
+- **Export and import** to back up browser-stored notes and progress.
 
-## Files
+## Use the website
 
-- `index.html` — home page, lessons, journal, roadmap
-- `style.css` — responsive site design
-- `app.js` — lesson data, interactions, browser storage, export/import
-- `lessons.json` — portable source lesson summaries and scores
+Open [Wortgarten A1](https://amitpanda147.github.io/Wortgarten-A1/) in a browser.
 
-## Data privacy
+On an iPhone, open the site in Safari and use **Share → Add to Home Screen** for convenient access. The site is responsive and is hosted using GitHub Pages.
 
-The study content includes no home address or personal identifying profile. Journal entries remain locally in your browser unless you explicitly export/share them. Do not commit exported journal backups to a public repository unless you want them public.
+## Project files
 
-## What is included
+- `index.html` — learning overview, lessons, journal, and learning path
+- `style.css` — responsive visual design
+- `app.js` — lesson content and local interactions
+- `lessons.json` — original structured lesson reference (may still include historic study records)
 
-Lesson 1: Pronouns + sein; Lesson 2: haben + regular verbs; Lesson 3: articles & genders; Lesson 4: word order; Lesson 5: W-questions; Lesson 6: nominative; Lesson 7: accusative.
+The website uses HTML, CSS, and JavaScript; no separate installation or backend is required.
 
-Exam target: 4 Dec 2026; curriculum target: 30 Nov 2026. Remaining A1–B1 topics are planned but not represented as completed.
+## Storage and privacy
+
+Lesson notes, checkboxes, and journal entries are saved in this browser's local storage. They are not automatically uploaded to GitHub or synchronized between devices.
+
+Use **Export progress** to create a backup and **Import progress** to restore it in another browser. Don't add exported personal notes or other private data to this public repository.
+
+## Project philosophy
+
+Learn at a comfortable pace, keep useful examples, and build a personal record of progress. New grammar or vocabulary topics can be added whenever needed.
+
+## License
+
+See [LICENSE](LICENSE) for the repository's code license. Third-party assets, if any, retain their own terms.
