@@ -10,7 +10,9 @@ Wortgarten brings my German A1 lessons, grammar notes, examples, and daily learn
 
 ## What's inside
 
-- **Seven A1 lessons**: personal pronouns and *sein*, *haben* and regular verbs, articles and noun gender, word order, W-questions, nominative, and accusative.
+- **Nine A1 lessons**: personal pronouns and *sein*, *haben* and regular verbs, articles and noun gender, word order, W-questions, nominative, accusative, negation, and dative.
+- **Question-and-answer archive**: actual Lesson 8–9 exercises and answer keys; clearly labeled reconstructed extra practice for Lessons 1–7, because their exact original question responses are not preserved in the repository.
+- **Original scores and corrections**: stored in `lessons.json` and shown on the site.
 - **Grammar explanations and example sentences** that I can revisit at any time.
 - **Personal lesson notes** and a simple explored/not-yet-explored checklist.
 - **Daily learning journal** for vocabulary, sentences, questions, and observations.
@@ -45,3 +47,11 @@ Learn at a comfortable pace, keep useful examples, and build a personal record o
 ## License
 
 See [LICENSE](LICENSE) for the repository's code license. Third-party assets, if any, retain their own terms.
+
+## Archive integrity
+
+Lessons 1–7: the original question-by-question submissions are not in the available stored study history. Scores, correction counts, error topics and summaries are preserved. The additional practice questions are **new reconstructions**, not fabricated originals.
+
+Lessons 8–9: the exercise questions, correct answers, explanation notes, and original scores are documented. This public repository does **not** contain personally identifying learner responses or private addresses.
+
+Lesson 10 is planned for later and is not marked completed.
