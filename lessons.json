@@ -431,13 +431,10 @@
       "Nein, ich habe keine Zeit. — No, I have no time."
     ],
     "scores": [
-      "Exercise A original: 8/8 (100%)",
-      "Exercise B original: 5/5 (100%)",
-      "Exercise C original: 5/5 (100%)",
-      "Total original: 18/18 (100%); no corrections required"
+      "Lesson completed on user's confirmation; exact exercise scores not verified in this conversation."
     ],
-    "review": "All five original translation responses were correct. Lesson completed.",
-    "archiveNote": "These are the actual questions and answer keys used in Lessons 8's exercises. Multiple-choice distractors are recorded below in reference to original exercise presentation.",
+    "review": "Completion confirmed; leave numerical scores unverified rather than reporting perfect scores.",
+    "archiveNote": "Exercises shown below are practice prompts; the verified completion status does not establish exact original attempt scores.",
     "exercises": [
       {
         "section": "A — nicht/kein (original 8 questions)",
@@ -591,11 +588,12 @@
     "scores": [
       "Exercise A original: 8/8 (100%)",
       "Exercise B original: 6/6 (100%)",
-      "Exercise C original: 5/5 (100%)",
-      "Total original: 19/19 (100%); no corrections required"
+      "Exercise C original: 4/5 (80%)",
+      "Exercise C correction: 1/1",
+      "Total original: 18/19 (94.7%); corrections separately 1/1"
     ],
-    "review": "All five original translation responses were correct. Lesson completed.",
-    "archiveNote": "These are the actual questions and answer keys from Lesson 9 exercises.",
+    "review": "Original translation Q4 'Wir Fahren mit dem Bus.' contained a capitalization error. Corrected to 'Wir fahren mit dem Bus.' (a duplicated final period was noted).",
+    "archiveNote": "The stored exercise archive from an earlier site version does not exactly match the questions later graded in this conversation. Results above are confirmed; below are reference practice examples, not a verbatim record of the graded questions.",
     "exercises": [
       {
         "section": "A — Dative articles (original 8 questions)",
@@ -729,6 +727,529 @@
         "question": "Can you help me? (informal singular)",
         "answer": "Kannst du mir helfen?",
         "explanation": "Modal question and dative mir"
+      }
+    ]
+  },
+  {
+    "id": "10A",
+    "title": "Accusative vs. Dative",
+    "de": "Akkusativ oder Dativ? · Wechselpräpositionen",
+    "status": "Completed",
+    "summary": "Compare direct objects and dative objects; definite/indefinite article endings, pronouns, verbs requiring cases, two-object verbs, and location (wo?) versus destination (wohin?) with two-way prepositions.",
+    "rules": [
+      "Accusative masculine der → den; ein → einen. Dative masculine/neuter dem/einem, feminine der/einer, plural den (+ noun -n where required).",
+      "Accusative verbs: sehen, haben, kaufen, besuchen, brauchen, lieben. Dative verbs: helfen, danken, antworten, gehören, gefallen.",
+      "Two-object verbs: geben, schenken, schicken, zeigen, bringen. Recipient often dative and thing accusative: Ich gebe dem Kind einen Apfel.",
+      "Always accusative prepositions: durch, für, gegen, ohne, um. Always dative: aus, bei, mit, nach, seit, von, zu.",
+      "Two-way prepositions: in, an, auf, unter, über, vor, hinter, neben, zwischen. Location (wo?) → dative, destination (wohin?) → accusative.",
+      "Compare Ich laufe im Park (location) and Ich laufe in den Park (destination); movement alone does not determine accusative.",
+      "Dative plural: den Kindern, not dem Kindern."
+    ],
+    "examples": [
+      "Ich sehe den Mann. — I see the man.",
+      "Ich helfe dem Mann. — I help the man.",
+      "Sie gibt dem Kind einen Apfel. — She gives the child an apple.",
+      "Das Buch liegt auf dem Tisch. — The book is on the table.",
+      "Ich lege das Buch auf den Tisch. — I put the book onto the table.",
+      "Kannst du mir helfen? — Can you help me?"
+    ],
+    "scores": [
+      "Exercise A original: 7/8 (87.5%)",
+      "Exercise A correction: 1/1 (dative plural: Wir helfen den Kindern.)",
+      "Exercise B original: 6/6 (100%)",
+      "Exercise C original: 6/6 (100%)",
+      "Total original: 19/20 (95%); correction separately 1/1"
+    ],
+    "review": "The original error was using dem rather than den for plural dative 'den Kindern'. All six translation sentences were correct. Final correction earned 1/1; extra terminal period noted.",
+    "archiveNote": "The following exercise summaries reproduce the graded Lesson 10A questions and answer keys (not the user's full submitted text).",
+    "exercises": [
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 1,
+        "question": "Ich sehe ___ Mann.",
+        "answer": "den",
+        "explanation": "sehen + accusative"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 2,
+        "question": "Ich helfe ___ Mann.",
+        "answer": "dem",
+        "explanation": "helfen + dative"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 3,
+        "question": "Sie kauft ___ Apfel.",
+        "answer": "einen",
+        "explanation": "masculine accusative"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 4,
+        "question": "Er dankt ___ Frau.",
+        "answer": "der",
+        "explanation": "feminine dative"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 5,
+        "question": "Wir helfen ___ Kindern.",
+        "answer": "den",
+        "explanation": "dative plural"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 6,
+        "question": "Ich gebe ___ Kind einen Ball.",
+        "answer": "dem",
+        "explanation": "neuter dative recipient"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 7,
+        "question": "Sie besucht ___ Bruder.",
+        "answer": "den",
+        "explanation": "besuchen + accusative"
+      },
+      {
+        "section": "A — Verb cases (8 questions)",
+        "number": 8,
+        "question": "Ich fahre mit ___ Auto.",
+        "answer": "dem",
+        "explanation": "mit + dative"
+      },
+      {
+        "section": "B — Wo? vs. Wohin? (6 questions)",
+        "number": 1,
+        "question": "Ich bin in ___ Schule.",
+        "answer": "der",
+        "explanation": "wo? location"
+      },
+      {
+        "section": "B — Wo? vs. Wohin? (6 questions)",
+        "number": 2,
+        "question": "Ich gehe in ___ Schule.",
+        "answer": "die",
+        "explanation": "wohin? destination"
+      },
+      {
+        "section": "B — Wo? vs. Wohin? (6 questions)",
+        "number": 3,
+        "question": "Das Buch liegt auf ___ Tisch.",
+        "answer": "dem",
+        "explanation": "location"
+      },
+      {
+        "section": "B — Wo? vs. Wohin? (6 questions)",
+        "number": 4,
+        "question": "Ich lege das Buch auf ___ Tisch.",
+        "answer": "den",
+        "explanation": "destination"
+      },
+      {
+        "section": "B — Wo? vs. Wohin? (6 questions)",
+        "number": 5,
+        "question": "Die Katze sitzt unter ___ Stuhl.",
+        "answer": "dem",
+        "explanation": "location"
+      },
+      {
+        "section": "B — Wo? vs. Wohin? (6 questions)",
+        "number": 6,
+        "question": "Die Katze läuft unter ___ Stuhl.",
+        "answer": "den",
+        "explanation": "destination from outside"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 1,
+        "question": "Ich sehe den Mann.",
+        "answer": "Ich sehe den Mann.",
+        "explanation": "Correct final translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 2,
+        "question": "Ich helfe dem Mann.",
+        "answer": "Ich helfe dem Mann.",
+        "explanation": "Correct final translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 3,
+        "question": "Sie gibt dem Kind einen Apfel.",
+        "answer": "Sie gibt dem Kind einen Apfel.",
+        "explanation": "Correct final translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 4,
+        "question": "Das Buch liegt auf dem Tisch.",
+        "answer": "Das Buch liegt auf dem Tisch.",
+        "explanation": "Correct final translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 5,
+        "question": "Ich lege das Buch auf den Tisch.",
+        "answer": "Ich lege das Buch auf den Tisch.",
+        "explanation": "Correct final translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 6,
+        "question": "Kannst du mir helfen?",
+        "answer": "Kannst du mir helfen?",
+        "explanation": "Correct final translation"
+      }
+    ]
+  },
+  {
+    "id": "10B",
+    "title": "German Conjunctions",
+    "de": "Konjunktionen · und, aber, oder, denn, sondern, weil, wenn, dass",
+    "status": "Completed",
+    "summary": "Coordinate and subordinate clauses; word order with und/aber/oder/denn/sondern versus weil/wenn/dass, contrast and correction, reasons, conditions and embedded information.",
+    "rules": [
+      "Coordinating conjunctions und, aber, oder, denn, sondern preserve ordinary main-clause verb-second order.",
+      "Subordinating conjunctions weil, wenn, dass normally send the conjugated verb to the end of the subordinate clause.",
+      "Denn: Ich lerne, denn ich habe eine Prüfung. Weil: Ich lerne, weil ich eine Prüfung habe.",
+      "Sondern replaces something previously negated: Ich trinke keinen Kaffee, sondern Tee.",
+      "When the wenn clause is first, the main clause starts with the conjugated verb: Wenn ich Zeit habe, koche ich.",
+      "Dass introduces content of knowing, thinking or saying: Ich weiß, dass du Deutsch lernst.",
+      "Wenn expresses conditions and repeated/future occasions; als is used for many one-time past situations."
+    ],
+    "examples": [
+      "Ich bin müde, aber ich lerne Deutsch. — I'm tired, but I learn German.",
+      "Ich kaufe Äpfel und Bananen. — I buy apples and bananas.",
+      "Ich trinke keinen Kaffee, sondern Tee. — I don't drink coffee, but rather tea.",
+      "Ich lerne Deutsch, weil ich eine Prüfung habe. — I learn German because I have an exam.",
+      "Wenn ich Zeit habe, koche ich. — If I have time, I cook.",
+      "Ich weiß, dass du Deutsch lernst. — I know that you learn German."
+    ],
+    "scores": [
+      "Exercise A original: 8/8 (100%)",
+      "Exercise B original: 5/6 (83.3%); correction 1/1",
+      "Exercise C original: 4/6 (66.7%); corrections 2/2",
+      "Total original: 17/20 (85%); corrections separately 3/3"
+    ],
+    "review": "Original word-order issue after initial wenn clause (correct: Wenn ich nach Hause komme, esse ich); weil was misspelled wel and nouns Prüfung and Zeit needed capitals. All corrected. Extra punctuation in one correction noted.",
+    "archiveNote": "The following are the main questions and correct answers from the graded conjunction exercises.",
+    "exercises": [
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 1,
+        "question": "Ich bin müde, ___ ich lerne Deutsch.",
+        "answer": "aber",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 2,
+        "question": "Ich kaufe Äpfel ___ Bananen.",
+        "answer": "und",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 3,
+        "question": "Möchtest du Tee ___ Kaffee?",
+        "answer": "oder",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 4,
+        "question": "Ich bleibe zu Hause, ___ ich bin krank.",
+        "answer": "denn",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 5,
+        "question": "Ich trinke keinen Kaffee, ___ Tee.",
+        "answer": "sondern",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 6,
+        "question": "Ich lerne Deutsch, ___ ich in Deutschland arbeiten möchte.",
+        "answer": "weil",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 7,
+        "question": "___ ich Zeit habe, lerne ich Deutsch.",
+        "answer": "Wenn",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "A — Choose conjunction (8 questions)",
+        "number": 8,
+        "question": "Ich weiß, ___ du Deutsch lernst.",
+        "answer": "dass",
+        "explanation": "Conjunction meaning and correct clause order"
+      },
+      {
+        "section": "B — Word order (6 questions)",
+        "number": 1,
+        "question": "I study German because I have an exam.",
+        "answer": "Ich lerne Deutsch, weil ich eine Prüfung habe.",
+        "explanation": "Word order review"
+      },
+      {
+        "section": "B — Word order (6 questions)",
+        "number": 2,
+        "question": "If I have time, I cook.",
+        "answer": "Wenn ich Zeit habe, koche ich.",
+        "explanation": "Word order review"
+      },
+      {
+        "section": "B — Word order (6 questions)",
+        "number": 3,
+        "question": "I know that he is tired.",
+        "answer": "Ich weiß, dass er müde ist.",
+        "explanation": "Word order review"
+      },
+      {
+        "section": "B — Word order (6 questions)",
+        "number": 4,
+        "question": "I am sick, but I work.",
+        "answer": "Ich bin krank, aber ich arbeite.",
+        "explanation": "Word order review"
+      },
+      {
+        "section": "B — Word order (6 questions)",
+        "number": 5,
+        "question": "I stay home because I am tired (denn).",
+        "answer": "Ich bleibe zu Hause, denn ich bin müde.",
+        "explanation": "Word order review"
+      },
+      {
+        "section": "B — Word order (6 questions)",
+        "number": 6,
+        "question": "When I come home, I eat.",
+        "answer": "Wenn ich nach Hause komme, esse ich.",
+        "explanation": "Word order review"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 1,
+        "question": "I am tired, but I am learning German.",
+        "answer": "Ich bin müde, aber ich lerne Deutsch.",
+        "explanation": "Reference corrected translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 2,
+        "question": "I buy apples and bananas.",
+        "answer": "Ich kaufe Äpfel und Bananen.",
+        "explanation": "Reference corrected translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 3,
+        "question": "I don't drink coffee, but rather tea.",
+        "answer": "Ich trinke keinen Kaffee, sondern Tee.",
+        "explanation": "Reference corrected translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 4,
+        "question": "I learn German because I have an exam.",
+        "answer": "Ich lerne Deutsch, weil ich eine Prüfung habe.",
+        "explanation": "Reference corrected translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 5,
+        "question": "If I have time, I cook.",
+        "answer": "Wenn ich Zeit habe, koche ich.",
+        "explanation": "Reference corrected translation"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 6,
+        "question": "I know that you are learning German.",
+        "answer": "Ich weiß, dass du Deutsch lernst.",
+        "explanation": "Reference corrected translation"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Possessive Articles",
+    "de": "Possessivartikel · mein, dein, sein, ihr, unser, euer, Ihr",
+    "status": "In progress",
+    "summary": "Possessive article bases and endings across nominative, accusative and dative, including special euer forms and formal Ihr. Exercises A/B/C introduced but no scores submitted yet.",
+    "rules": [
+      "Possessive bases: ich→mein; du→dein; er/es→sein; sie (she/they)→ihr; wir→unser; ihr→euer; Sie→Ihr (formal).",
+      "Possessive endings depend on the grammatical gender, case and number of the possessed noun, not the owner's gender.",
+      "Mein table: nominative mein/meine/mein/meine; accusative meinen/meine/mein/meine; dative meinem/meiner/meinem/meinen (masc/fem/neut/plural).",
+      "Dative plural nouns typically take -n: mit meinen Freunden.",
+      "Euer generally loses its second e when a suffix is added: eure, euren, eurem, eurer.",
+      "Formal Ihr is capitalized: Ist das Ihr Auto?",
+      "Example: Ich besuche meinen Vater (masculine accusative); Ich helfe meiner Mutter (feminine dative)."
+    ],
+    "examples": [
+      "Das ist mein Vater. — This is my father.",
+      "Ich sehe deinen Bruder. — I see your brother.",
+      "Sie hilft ihrer Mutter. — She helps her mother.",
+      "Wir besuchen unsere Freunde. — We visit our friends.",
+      "Ich spreche mit meinen Eltern. — I speak with my parents.",
+      "Ist das Ihr Auto? — Is that your car? (formal)"
+    ],
+    "scores": [
+      "Exercise A: pending (8 questions)",
+      "Exercise B: pending (6 questions)",
+      "Exercise C: pending (6 translations)",
+      "No original or correction scores recorded yet."
+    ],
+    "review": "Lesson introduced; all exercises pending.",
+    "archiveNote": "Practice prompts from the introduced Lesson 11; these have not been graded.",
+    "exercises": [
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 1,
+        "question": "Das ist ___ Vater. (my)",
+        "answer": "mein",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 2,
+        "question": "Ich sehe ___ Bruder. (my)",
+        "answer": "meinen",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 3,
+        "question": "Ich helfe ___ Mutter. (my)",
+        "answer": "meiner",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 4,
+        "question": "Das ist ___ Tasche. (your singular)",
+        "answer": "deine",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 5,
+        "question": "Er liebt ___ Kind. (his)",
+        "answer": "sein",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 6,
+        "question": "Wir besuchen ___ Freunde. (our)",
+        "answer": "unsere",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 7,
+        "question": "Ich spreche mit ___ Lehrer. (your singular)",
+        "answer": "deinem",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "A — Possessive forms (8 questions)",
+        "number": 8,
+        "question": "Sie hilft ___ Bruder. (her)",
+        "answer": "ihrem",
+        "explanation": "Check case and gender"
+      },
+      {
+        "section": "B — Mixed forms (6 questions)",
+        "number": 1,
+        "question": "Wo ist ___ Mutter? (your plural)",
+        "answer": "eure",
+        "explanation": "Check case, number, and euer/ formal Ihr"
+      },
+      {
+        "section": "B — Mixed forms (6 questions)",
+        "number": 2,
+        "question": "Ich helfe ___ Vater. (your plural)",
+        "answer": "eurem",
+        "explanation": "Check case, number, and euer/ formal Ihr"
+      },
+      {
+        "section": "B — Mixed forms (6 questions)",
+        "number": 3,
+        "question": "Ich spreche mit ___ Freunden. (my)",
+        "answer": "meinen",
+        "explanation": "Check case, number, and euer/ formal Ihr"
+      },
+      {
+        "section": "B — Mixed forms (6 questions)",
+        "number": 4,
+        "question": "Ist das ___ Auto? (formal)",
+        "answer": "Ihr",
+        "explanation": "Check case, number, and euer/ formal Ihr"
+      },
+      {
+        "section": "B — Mixed forms (6 questions)",
+        "number": 5,
+        "question": "Ich besuche ___ Eltern. (their)",
+        "answer": "ihre",
+        "explanation": "Check case, number, and euer/ formal Ihr"
+      },
+      {
+        "section": "B — Mixed forms (6 questions)",
+        "number": 6,
+        "question": "Er gibt ___ Schwester ein Buch. (his)",
+        "answer": "seiner",
+        "explanation": "Check case, number, and euer/ formal Ihr"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 1,
+        "question": "This is my father.",
+        "answer": "Das ist mein Vater.",
+        "explanation": "Reference solution; exercise still pending"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 2,
+        "question": "I see your brother.",
+        "answer": "Ich sehe deinen Bruder.",
+        "explanation": "Reference solution; exercise still pending"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 3,
+        "question": "She helps her mother.",
+        "answer": "Sie hilft ihrer Mutter.",
+        "explanation": "Reference solution; exercise still pending"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 4,
+        "question": "We visit our friends.",
+        "answer": "Wir besuchen unsere Freunde.",
+        "explanation": "Reference solution; exercise still pending"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 5,
+        "question": "I speak with my parents.",
+        "answer": "Ich spreche mit meinen Eltern.",
+        "explanation": "Reference solution; exercise still pending"
+      },
+      {
+        "section": "C — Translations (6 questions)",
+        "number": 6,
+        "question": "Is that your car? (formal)",
+        "answer": "Ist das Ihr Auto?",
+        "explanation": "Reference solution; exercise still pending"
       }
     ]
   }
