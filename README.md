@@ -10,8 +10,8 @@ Wortgarten brings my German A1 lessons, grammar notes, examples, and daily learn
 
 ## What's inside
 
-- **Nine A1 lessons**: personal pronouns and *sein*, *haben* and regular verbs, articles and noun gender, word order, W-questions, nominative, accusative, negation, and dative.
-- **Question-and-answer archive**: actual Lesson 8–9 exercises and answer keys; clearly labeled reconstructed extra practice for Lessons 1–7, because their exact original question responses are not preserved in the repository.
+- **Lessons 1–11, including both 10A and 10B**: personal pronouns and *sein*, *haben* and regular verbs, articles and noun gender, word order, W-questions, nominative, accusative, negation, and dative.
+- **Question-and-answer archive**: lesson practice questions and answer keys, with distinctions between verified and reconstructed archives; clearly labeled reconstructed extra practice for Lessons 1–7, where the exact original historical questions are not preserved.
 - **Original scores and corrections**: stored in `lessons.json` and shown on the site.
 - **Grammar explanations and example sentences** that I can revisit at any time.
 - **Personal lesson notes** and a simple explored/not-yet-explored checklist.
@@ -55,3 +55,13 @@ Lessons 1–7: the original question-by-question submissions are not in the avai
 Lessons 8–9: the exercise questions, correct answers, explanation notes, and original scores are documented. This public repository does **not** contain personally identifying learner responses or private addresses.
 
 Lesson 10 is planned for later and is not marked completed.
+
+## Current confirmed progress (November 5, 2026)
+
+- Lessons 1–9: completed. Lesson 8 completion confirmed, original numerical scores unverified.
+- Lesson 9 Dative: original **18/19**; corrections **1/1**.
+- Lesson 10A Accusative vs. Dative: original **19/20**; corrections **1/1** — completed.
+- Lesson 10B Conjunctions: original **17/20**; corrections **3/3** — completed.
+- Lesson 11 Possessive Articles: introduced, Exercises A/B/C pending.
+
+The website includes reference lesson content and personal note fields. **Notes saved in an individual browser's localStorage cannot be read or uploaded into GitHub automatically**. Export a local backup before clearing browser data; publish only notes you want to make public.
